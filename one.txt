@@ -1,2 +1,3 @@
 this is my file one for git course
 this is my file two for git course
+this is line 3.
