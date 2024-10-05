@@ -1,1 +1,2 @@
 I am fix file which  is used to fix the bug in the code. It is used to fix the bug in the code
+almost understand.
